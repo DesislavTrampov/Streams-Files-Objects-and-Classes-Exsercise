@@ -1,2 +1,2 @@
-# Streams-Files-Objects-and-Classes-Exsercise
-Exercises Streams Files Objects and Classes Exsercise
+# Streams-Files-Objects-and-Classes-Exsercises
+Exercises Streams Files Objects and Classes Exsercises
